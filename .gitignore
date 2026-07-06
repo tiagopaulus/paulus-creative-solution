@@ -1,0 +1,25 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Node (for the future website build)
+node_modules/
+dist/
+.next/
+.nuxt/
+.output/
+*.log
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Temp
+*.tmp
+~$*
